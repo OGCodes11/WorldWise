@@ -1,0 +1,962 @@
+<resources>
+    <string name="app_name">WorldWise</string>
+    <string name="ok_button">OK</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="home">Home</string>
+    <string name="intro">Today, You will learn about…</string>
+    <string name="country">Country</string>
+    <string name="country1">USA</string>
+    <string name="country2">Australia</string>
+    <string name="country3">China</string>
+    <string name="country4">Colombia</string>
+    <string name="country5">Italy</string>
+    <string name="country6">Mexico</string>
+    <string name="country7">Nigeria</string>
+    <string name="topic">Topic</string>
+    <string name="topics">Topics</string>
+    <string name="topic1">History</string>
+    <string name="topic2">Geography</string>
+    <string name="topic3">Culture</string>
+    <string name="funFacts">Fun Facts: </string>
+    <string name="topic4">Cuisine</string>
+    <string name="recipe">Recipe</string>
+    <string name="dish1">Onion Rings</string>
+    <string name="dish2">Lamingtons</string>
+    <string name="dish3">Arepas</string>
+    <string name="dish4">Egg Rolls</string>
+    <string name="dish5">Lasagna/Tiramisu</string>
+    <string name="dish6">Chilaquiles</string>
+    <string name="dish7">Jollof Rice</string>
+    <string name="quiz">Quiz</string>
+    <string name="score">Quiz Score: 0/5</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="congrats">Congratulations! You have now learned about the country of…</string>
+    <string name="bye">Come back tomorrow to learn about your next country!</string>
+    <string name="restart">To restart your progress, press the restart button at the top corner</string>
+    <string name="learn_button">Let\'s Learn!</string>
+    <string name="learn1_button">Next Country!</string>
+    <string name="guess_headline">Guess the country!</string>
+    <string name="guessCountry">Guess the country here</string>
+
+
+    <!-- USA - History -->
+    <string-array name="usa_history_array">
+        <item>The Declaration of Independence was signed on July 4, 1776, but most signers didn’t sign until August 2, 1776.</item>
+        <item>The U.S. Constitution is the oldest still in use today, adopted in 1787.</item>
+        <item>The U.S. had a different flag with 15 stripes from 1795 to 1818 before returning to 13 stripes.</item>
+        <item>The White House was set on fire by the British in 1814 during the War of 1812.</item>
+        <item>Hawaii became the 50th state in 1959, making it the newest U.S. state.</item>
+        <item>The Statue of Liberty was a gift from France in 1886 and originally had a copper color before turning green.</item>
+        <item>The U.S. was the first and only country to land humans on the Moon (1969).</item>
+        <item>The Cold War (1947–1991) shaped much of U.S. foreign policy and led to the space race against the Soviet Union.</item>
+        <item>The U.S. almost had a king – After the American Revolution, some suggested George Washington become King of America, but he refused and helped establish the presidency instead.</item>
+        <item>The Liberty Bell rang for the last time in 1846 – It was cracked beyond repair while being rung for George Washington’s birthday celebration.</item>
+    </string-array>
+
+    <!-- USA - Geography -->
+    <string-array name="usa_geography_array">
+        <item>The U.S. is the third-largest country by land area and population (after Russia, Canada, China, and India).</item>
+        <item>Mount Denali (Alaska) is the highest peak in North America at 20,310 feet (6,190 meters).</item>
+        <item>Death Valley, California, holds the record for the hottest temperature on Earth: 134°F (56.7°C) in 1913.</item>
+        <item>The Missouri River is the longest river in the U.S. at 2,341 miles.</item>
+        <item>The Great Lakes hold 21% of the world’s freshwater supply.</item>
+        <item>The U.S. has more tornadoes than any other country, with over 1,000 per year.</item>
+        <item>Alaska has more coastline than the other 49 states combined.</item>
+        <item>The U.S. has nine time zones, including two in U.S. territories.</item>
+        <item>Yellowstone National Park (1872) was the first national park in the world.</item>
+        <item>You can drive through a tree – California’s Chandelier Tree in the Redwood Forest is large enough for a car to drive through it!</item>
+    </string-array>
+
+    <!-- USA - Culture -->
+    <string-array name="usa_culture_array">
+        <item>The U.S. has the world’s largest economy, with a GDP over $26 trillion.</item>
+        <item>Hollywood is the movie capital of the world, producing the most box office hits.</item>
+        <item>Basketball, baseball, and American football were all invented in the U.S.</item>
+        <item>The Super Bowl is one of the most-watched TV events annually, attracting over 100 million viewers.</item>
+        <item>Americans eat about 50 billion hamburgers per year.</item>
+        <item>The U.S. has more than 35,000 museums, including the Smithsonian, the largest museum complex in the world.</item>
+        <item>Disney World in Florida is the most visited theme park in the world.</item>
+        <item>The U.S. has over 300 languages spoken, making it one of the most linguistically diverse countries.</item>
+        <item>New York City has the largest subway system in the world by number of stations (472).</item>
+        <item>The first American film screening, The Dickson Experimental Sound Film (1894), had zero people – nobody attended because motion pictures were too new.</item>
+    </string-array>
+
+    <!-- USA - Cuisine -->
+    <string-array name="usa_cuisine_array">
+        <item>Ingredients: </item>
+        <item>1 large Vidalia or other sweet onion</item>
+        <item>1 quart oil for frying, or as needed</item>
+        <item>1 ¼ cups all-purpose flour</item>
+        <item>1 teaspoon baking powder</item>
+        <item>1 teaspoon salt</item>
+        <item>1 cup milk, or as needed</item>
+        <item>1 large egg</item>
+        <item>¾ cup dry bread crumbs</item>
+        <item>⅛ teaspoon seasoned salt, or to taste</item>
+        <item> </item>
+        <item>1. Gather all ingredients.</item>
+        <item>2. Slice onion into ¼-inch-thick rings. Heat oil in a deep-fryer to 365 degrees F (185 degrees C). Place a wire rack over a sheet of aluminum foil.</item>
+        <item>3. Prepare breading station by setting out 3 wide, shallow dishes. Whisk flour, baking powder, and salt together in the first dish. Whisk milk and egg together in the second dish. Place bread crumbs in the third dish.</item>
+        <item>4. Dip each onion ring into the flour mixture, turning several times until fully coated with flour.</item>
+        <item>5. Transfer to the egg mixture and use a fork to turn until coated. Lift onion with the fork and shake gently so excess liquid drips back into the dish.</item>
+        <item>6. Place onion in the bread crumbs and turn several times to coat, scooping crumbs over the ring if necessary.</item>
+        <item>7. Lift again with the fork, tap any excess bread crumbs back into the dish, and place on the wire rack while you prepare the remaining onion rings.</item>
+        <item>8. Deep-fry 3 to 4 onion rings at a time in the preheated oil until golden brown, 2 to 3 minutes. Drain on paper towels while you deep-fry the remaining rings.</item>
+        <item>9. Sprinkle with seasoning salt before serving.</item>
+        <item>10. Enjoy!</item>
+    </string-array>
+
+    <!--Questions and Answer -->
+    <string name="usa_q1">Where is the United States located?</string>
+    <string-array name="usa_q1_array">
+        <item>a) South America</item>
+        <item>b) Europe</item>
+        <item>c) North America</item>
+        <item>d) Africa</item>
+    </string-array>
+    <string name="usa_q2">What year was the U.S. Constitution adopted, making it the oldest still in use today?</string>
+    <string-array name="usa_q2_array">
+        <item>a) 1776</item>
+        <item>b) 1781</item>
+        <item>c) 1787</item>
+        <item>d) 1801</item>
+    </string-array>
+    <string name="usa_q3">Which American sport has the most-watched championship game, attracting over 100 million viewers annually?</string>
+    <string-array name="usa_q3_array">
+        <item>a) Baseball</item>
+        <item>b) American football</item>
+        <item>c) Basketball</item>
+        <item>d) Ice hockey</item>
+    </string-array>
+    <string name="usa_q4">Which U.S. state has more coastline than all the other 49 states combined?</string>
+    <string-array name="usa_q4_array">
+        <item>a) California</item>
+        <item>b) Florida</item>
+        <item>c) Alaska</item>
+        <item>d) Hawaii</item>
+    </string-array>
+    <string name="usa_q5">Which U.S. landmark was a gift from France and originally had a copper color?</string>
+    <string-array name="usa_q5_array">
+        <item>a) Mount Rushmore</item>
+        <item>b) The White House</item>
+        <item>c) The Statue of Liberty</item>
+        <item>d) The Washington Monument</item>
+    </string-array>
+
+    <!-- Australia - History -->
+    <string-array name="australia_history_array">
+        <item>Australia was originally a British penal colony – The first British settlers in 1788 were mostly convicts sent from England.</item>
+        <item>The Aboriginal Australians have lived here for over 65,000 years – They are the oldest continuous civilization on Earth.</item>
+        <item>Australia became a country in 1901 – The six British colonies united to form the Commonwealth of Australia.</item>
+        <item>The world\'s longest fence is in Australia – The Dingo Fence stretches 5,614 km (3,488 miles) to protect sheep from wild dogs.</item>
+        <item>Australia fought in both World Wars – Despite its distance, it played a crucial role in major battles.</item>
+        <item>Canberra was chosen as the capital to settle a rivalry – Sydney and Melbourne both wanted to be the capital, so a new city was built in between.</item>
+        <item>The Sydney Opera House took 14 years to build – It was completed in 1973, way over budget and schedule.</item>
+        <item>An Australian Prime Minister once disappeared – Harold Holt vanished while swimming in 1967 and was never found.</item>
+        <item>The world\'s first seatbelt law was in Australia – Victoria made wearing seatbelts mandatory in 1970.</item>
+        <item>Australia once "went to war" with emus – In 1932, soldiers with machine guns tried to reduce the emu population but failed.</item>
+    </string-array>
+
+    <!-- Australia - Geography -->
+    <string-array name="australia_geography_array">
+        <item>Australia is the world\'s smallest continent and largest island – It’s both a continent and a country.</item>
+        <item>The Great Barrier Reef is the largest living structure on Earth – It stretches over 2,300 km (1,400 miles).</item>
+        <item>90% of Australians live on the coast – The center of the country is mostly desert.</item>
+        <item>Uluru (Ayers Rock) changes color – Depending on the time of day, it can appear red, orange, or purple.</item>
+        <item>Australia has more than 10,000 beaches – You could visit a new one every day for over 27 years.</item>
+        <item>It is home to the world\'s largest sand island – Fraser Island is a UNESCO World Heritage Site.</item>
+        <item>The Outback is one of the driest places on Earth – Some parts receive less rain than the Sahara Desert.</item>
+        <item>There’s a lake that is naturally pink – Lake Hillier stays pink year-round due to algae.</item>
+        <item>Australia has the world\'s longest straight road – The Eyre Highway runs for 146 km (91 miles) without a single turn.</item>
+        <item>There is a town underground – Coober Pedy has homes, shops, and even hotels built underground to escape the heat.</item>
+    </string-array>
+
+    <!-- Australia - Culture -->
+    <string-array name="australia_culture_array">
+        <item>Australia has no official language – English is the main language, but over 250 Indigenous languages exist.</item>
+        <item>Kangaroos and emus are on the coat of arms – They were chosen because they can’t walk backward, symbolizing progress.</item>
+        <item>Australians love nicknames – Breakfast is "brekkie," McDonald\'s is "Macca\'s," and mosquitoes are "mozzies."</item>
+        <item>Football is different in Australia – Australian Rules Football (AFL) is a unique sport played mostly in Australia.</item>
+        <item>The didgeridoo is one of the world’s oldest instruments – Aboriginal Australians have played it for over 1,500 years.</item>
+        <item>Vegemite is an Australian staple – It’s a salty spread made from yeast extract, and Australians love it!</item>
+        <item>Australia celebrates Christmas in summer – Many Australians go to the beach on Christmas Day instead of staying inside.</item>
+        <item>There’s an annual "Toad Racing" event – In Queensland, people bet on racing cane toads.</item>
+        <item>Australians once voted a cat for mayor – A cat named "Mayor Stubbs" became famous for unofficially "running" a town.</item>
+        <item>The Melbourne Cup horse race stops the nation – It’s so popular that many people get the day off work.</item>
+    </string-array>
+
+    <!-- Australia - Cuisine -->
+    <string-array name="australia_cuisine_array">
+        <item>Ingredients: </item>
+        <item>Butter Sponge</item>
+        <item>125 g / 4.5 oz unsalted butter , softened</item>
+        <item>1 cup (220g) caster sugar</item>
+        <item>½ tsp vanilla extract</item>
+        <item>3 eggs , room temperature</item>
+        <item>1 ¾ cups (260g) flour , plain/all purpose, sifted (Note 1)</item>
+        <item>3.5 tsp baking powder</item>
+        <item>½ cup (125 ml) milk (low or full fat)</item>
+        <item>Icing</item>
+        <item>4 cups (480g) icing sugar (confectionary sugar), sifted</item>
+        <item>⅓ cup (22g) cocoa powder</item>
+        <item>1 tbsp (15g) unsalted butter</item>
+        <item>150ml (½ cup + 2 tbsp) boiling water</item>
+        <item>Coating</item>
+        <item>3 – 4 cups desiccated coconut</item>
+        <item>Optional: Jam and Cream</item>
+        <item>Strawberry jam</item>
+        <item>1 cup (250 ml) cream</item>
+        <item>1 tbsp white sugar</item>
+        <item> </item>
+        <item>Butter Sponge</item>
+        <item>1. Preheat oven to 180C/350F (or fan forced 160C/320F).</item>
+        <item>2. Sift flour and baking powder together.</item>
+        <item>3. Grease a 20 cm x 30 cm / 8" x 12" cake pan. Line with baking paper (parchment paper), leaving an overhang on all sides (to make it easy to remove).</item>
+        <item>4. Beat butter, sugar and vanilla with an electric mixer on medium high speed until light and fluffy - about 1 ½ to 2 minutes.</item>
+        <item>5. Add eggs 1 at a time, beating well after each addition so the batter is smooth, not curdled.</item>
+        <item>6. Add half the flour and gently fold to combine, then stir in half the milk. Repeat with remaining flour and milk.</item>
+        <item>7. Pour the batter into the prepared pan and bake for 25 minutes until a skewer inserted into the centre comes out clean.</item>
+        <item>8. Stand for 5 minutes then use the overhang baking paper to lift the cake out onto a wire rack and cool completely.</item>
+        <item>Prepare Cake to Coat</item>
+        <item>1. Cut cake into 15 squares (5 x 3), or 18 rectangles. Freeze for 1 to 1.5 hours. (Note 2)</item>
+        <item>Icing</item>
+        <item>1. Combine the Icing ingredients in a heat proof bowl and mix until smooth. Should be a syrup consistency, but not watery. (Note 2)</item>
+        <item>Coating</item>
+        <item>1. Place coconut in a shallow bowl or pan with a largish surface area (Note 3).</item>
+        <item>2. Place a piece of cake in the icing and roll to coat using 2 forks. Transfer it into the coconut and quickly roll to coat all over in coconut. Transfer to tray.</item>
+        <item>3. Repeat with remaining sponges.</item>
+        <item>4. Stand for 1 to 2 hours, or until set. Then serve with tea and coffee!</item>
+        <item>Optional: Jam and Cream</item>
+        <item>1. Beat cream and sugar until firm peaks form.</item>
+        <item>2. Cut coated Lamington in half horizontally. Spread with jam then pipe or dollop on cream. Top with lid, keep refrigerated.</item>
+        <item>Enjoy!</item>
+    </string-array>
+    <!--Questions and Answer -->
+    <string name="australia_q1">Where is Australia located?</string>
+    <string-array name="australia_q1_array">
+        <item>a) Northern Hemisphere</item>
+        <item>b) Southern Hemisphere</item>
+        <item>c) Western Hemisphere</item>
+        <item>d) Eastern Hemisphere</item>
+
+    </string-array>
+    <string name="australia_q2">What was Australia originally established as?</string>
+    <string-array name="australia_q2_array">
+        <item>a) A monarchy</item>
+        <item>b) A penal colony</item>
+        <item>c) A trading hub</item>
+        <item>d) A religious settlement</item>
+
+    </string-array>
+    <string name="australia_q3">When does Australia celebrate Christmas?</string>
+    <string-array name="australia_q3_array">
+        <item>a) Summer</item>
+        <item>b) Winter</item>
+        <item>c) Spring</item>
+        <item>d) Fall</item>
+
+    </string-array>
+    <string name="australia_q4">What is the Great Barrier Reef known for?</string>
+    <string-array name="australia_q4_array">
+        <item>a) Being the longest river</item>
+        <item>b) Being the largest living structure</item>
+        <item>c) Being the deepest ocean trench</item>
+        <item>d) Being the fastest-growing landmass</item>
+
+    </string-array>
+    <string name="australia_q5">What is the longest straight road in the world?</string>
+    <string-array name="australia_q5_array">
+        <item>a) Route 66</item>
+        <item>b) Eyre Highway</item>
+        <item>c) Great Ocean Road</item>
+        <item>d) Pacific Highway</item>
+
+    </string-array>
+    <!-- China - History -->
+    <string-array name="china_history_array">
+        <item>China is one of the world’s oldest civilizations – It dates back over 5,000 years with dynasties like the Shang and Zhou.</item>
+        <item>The Great Wall isn’t just one wall – It’s a series of fortifications built over 2,000 years and stretches over 13,000 miles (21,000 km).</item>
+        <item>Paper was invented in China – The Han Dynasty created paper-making in 105 AD, changing how the world recorded knowledge.</item>
+        <item>The Terracotta Army guards China’s first emperor – Over 8,000 life-sized soldiers were buried with Qin Shi Huang.</item>
+        <item>Silk was China’s secret for thousands of years – The Silk Road spread trade and culture, but the method of making silk was a closely guarded secret.</item>
+        <item>Gunpowder was first used for fireworks – The Chinese developed gunpowder in the 9th century, initially for fireworks before it was used in weapons.</item>
+        <item>Kublai Khan, grandson of Genghis Khan, ruled China – He founded the Yuan Dynasty (1271–1368) and connected China to the Mongol Empire.</item>
+        <item>The world\'s longest canal is in China – The Grand Canal stretches over 1,100 miles (1,770 km) and has been used for transport since the 5th century.</item>
+        <item>Ancient China had a female emperor – Empress Wu Zetian (624–705 AD) ruled the Tang Dynasty and expanded China’s influence.</item>
+        <item>The world\'s first earthquake detector was invented in China – In 132 AD, Zhang Heng created a device to detect earthquakes.</item>
+    </string-array>
+
+    <!-- China - Geography -->
+    <string-array name="china_geography_array">
+        <item>China is the fourth largest country by land area – It covers 9.6 million km² (3.7 million mi²), just behind the USA and Canada.</item>
+        <item>It has the highest and lowest points in the world – Mount Everest (shared with Nepal) is the highest, and the Turpan Depression is 505 feet (154 m) below sea level.</item>
+        <item>The Yangtze River is the longest in Asia – It’s 3,915 miles (6,300 km) long and plays a key role in China’s economy.</item>
+        <item>China has over 2,000 natural lakes – The largest is Qinghai Lake, a massive saltwater lake.</item>
+        <item>It has 14 land borders – China shares borders with more countries than any other nation.</item>
+        <item>The Forbidden City has 9,999 rooms – The imperial palace in Beijing was home to emperors for nearly 500 years.</item>
+        <item>China has a "Rainbow Mountain" – The Zhangye Danxia Landform has colorful, striped rock formations.</item>
+        <item>It’s home to the largest desert in Asia – The Gobi Desert spans China and Mongolia.</item>
+        <item>The South China Karst has over 1,000 limestone towers – These surreal formations are a UNESCO site.</item>
+        <item>China has an underground glacier – The Tianshan Glacier No. 1 exists in an arid region.</item>
+    </string-array>
+
+    <!-- China - Culture -->
+    <string-array name="china_culture_array">
+        <item>China celebrates the world’s biggest New Year – Chinese New Year lasts 15 days with dragon dances, fireworks, and red envelopes.</item>
+        <item>Martial arts like Kung Fu originated in China – The Shaolin monks helped develop Kung Fu, influencing modern martial arts.</item>
+        <item>The Chinese writing system is over 3,000 years old – Characters are based on ancient pictographs.</item>
+        <item>China’s tea culture dates back over 4,000 years – Legend says Emperor Shen Nong discovered tea in 2737 BC.</item>
+        <item>The world’s largest annual human migration happens in China – Millions travel home for Chinese New Year.</item>
+        <item>Red is the color of luck in China – It symbolizes happiness, prosperity, and good fortune.</item>
+        <item>China has an "ice city" – Harbin hosts a famous Ice and Snow Festival with enormous ice sculptures.</item>
+        <item>The oldest board game, Go, was invented in China – Go is over 2,500 years old and is still played today.</item>
+        <item>There are over 300 styles of Chinese opera – Peking Opera is the most famous, but regional styles exist.</item>
+        <item>China has a "ghost month" – The Hungry Ghost Festival (7th lunar month) is believed to be when spirits roam freely.</item>
+    </string-array>
+
+    <!-- China - Cuisine -->
+    <string-array name="china_cuisine_array">
+        <item>Ingredients: </item>
+        <item>2 teaspoons vegetable oil</item>
+        <item>¾ pound ground pork</item>
+        <item>salt and pepper to taste</item>
+        <item>1 teaspoon minced garlic</item>
+        <item>1 teaspoon minced ginger</item>
+        <item>3 cups coleslaw mix</item>
+        <item>¼ cup sliced green onions</item>
+        <item>1 tablespoon soy sauce</item>
+        <item>1 teaspoon toasted sesame oil</item>
+        <item>12 egg roll wrappers</item>
+        <item>1 egg beaten</item>
+        <item>oil for frying</item>
+        <item> </item>
+        <item>1. Heat the 2 teaspoons of vegetable oil in a large pan over medium high heat. Add the ground pork and season with salt and pepper.</item>
+        <item>2. Cook, breaking up the pork with a spatula, until meat is browned and cooked through. Add the garlic and ginger then cook for 30 seconds.</item>
+        <item>3. Stir in the coleslaw mix and green onions. Cook until cabbage is wilted, about 3–4 minutes.</item>
+        <item>4. Stir in the soy sauce and sesame oil, then remove from heat.</item>
+        <item>5. Spoon approximately 2–3 tablespoons of filling onto each egg roll wrapper and fold according to package directions, using the beaten egg to seal the edges of the wrappers as you go.</item>
+        <item>6. Pour 2–3 inches of oil into a deep pot.</item>
+        <item>7. Heat the oil to 350 degrees. Fry 3–4 egg rolls at a time, turning occasionally, until browned all over, approximately 3–5 minutes.</item>
+        <item>8. Drain on paper towels, then serve with dipping sauce of your choice.</item>
+        <item>9. Enjoy!</item>
+    </string-array>
+
+    <!--Questions and Answer -->
+    <string name="china_q1">Where is China located?</string>
+    <string-array name="china_q1_array">
+        <item>a) South America</item>
+        <item>b) Europe</item>
+        <item>c) Asia</item>
+        <item>d) Africa</item>
+
+    </string-array>
+
+    <string name="china_q2">Why was the Great Wall of China built?</string>
+    <string-array name="china_q2_array">
+        <item>a) Decoration</item>
+        <item>b) Trade route</item>
+        <item>c) Defense</item>
+        <item>d) Earthquake protection</item>
+
+    </string-array>
+
+    <string name="china_q3">What does the color red symbolize in China?</string>
+    <string-array name="china_q3_array">
+        <item>a) Good luck</item>
+        <item>b) Bad luck</item>
+        <item>c) Sadness</item>
+        <item>d) Wealth</item>
+
+    </string-array>
+
+    <string name="china_q4">What animal is native to China?</string>
+    <string-array name="china_q4_array">
+        <item>a) Koala</item>
+        <item>b) Panda</item>
+        <item>c) Kangaroo</item>
+        <item>d) Lion</item>
+
+    </string-array>
+
+    <string name="china_q5">What is the official language of China?</string>
+    <string-array name="china_q5_array">
+        <item>a) Cantonese</item>
+        <item>b) English</item>
+        <item>c) Mandarin</item>
+        <item>d) Japanese</item>
+
+    </string-array>
+
+    <!-- Colombia - History -->
+    <string-array name="colombia_history_array">
+        <item>Colombia was named after Christopher Columbus – Even though Columbus never actually set foot in present-day Colombia, the country is named in his honor.</item>
+        <item>It gained independence in 1810 – Colombia declared its independence from Spain on July 20, 1810, but full independence came in 1819 under Simón Bolívar.</item>
+        <item>Colombia was once part of a larger nation – It was part of Gran Colombia, a short–lived republic (1819–1831) that included Venezuela, Ecuador, Panama, and parts of Peru and Brazil.</item>
+        <item>Panama used to be part of Colombia – Panama separated from Colombia in 1903 with the support of the United States.</item>
+        <item>The Muisca civilization was rich in gold – The Muisca people inspired the legend of El Dorado, a mythical city of gold.</item>
+        <item>Bogotá was one of the most advanced cities in South America during colonial times – It had the first printing press and one of the oldest universities in the continent.</item>
+        <item>Colombia has had multiple civil wars – The most infamous was La Violencia (1948–1958), a brutal conflict that left over 200,000 dead.</item>
+        <item>It has the world’s longest-running insurgency – The FARC guerrilla group fought the Colombian government for over 50 years until a 2016 peace deal.</item>
+        <item>Colombia once had a queen who ruled for only 6 days – María Eugenia Rojas, the daughter of a dictator, briefly claimed power in 1957 before being overthrown.</item>
+        <item>It was the first constitutional democracy in South America – Colombia’s Constitution of 1886 was one of the longest-lasting in Latin America.</item>
+    </string-array>
+
+    <!-- Colombia - Geography -->
+    <string-array name="colombia_geography_array">
+        <item>Colombia is the only South American country with both Pacific and Atlantic coastlines – It has stunning beaches on both oceans.</item>
+        <item>The Andes split into three mountain ranges in Colombia – This makes its geography incredibly diverse, from snow-capped peaks to tropical lowlands.</item>
+        <item>It is one of the world’s most biodiverse countries – Colombia ranks second in biodiversity after Brazil.</item>
+        <item>It has more species of birds than any other country – Over 1,900 bird species are found in Colombia, more than in the U.S. and Canada combined.</item>
+        <item>The Amazon rainforest covers a large part of Colombia – About 35% of Colombia’s land is part of the Amazon Basin.</item>
+        <item>It is home to the tallest coastal mountain in the world – Sierra Nevada de Santa Marta rises to 5,700 meters (18,700 feet) just 42 km (26 mi) from the sea.</item>
+        <item>Colombia has a river that looks like a rainbow – Caño Cristales is known as the "River of Five Colors" due to its vibrant red, yellow, green, blue, and black hues.</item>
+        <item>It has 59 national parks – Covering about 14% of the country’s land area, they protect rainforests, deserts, coral reefs, and mountains.</item>
+        <item>Some parts of Colombia have never recorded snowfall – Despite having high mountains, areas like the Tatacoa Desert are among the driest and hottest places.</item>
+        <item>There’s an ancient underground city hidden in the jungle – The Ciudad Perdida (Lost City) is an archaeological site older than Machu Picchu.</item>
+    </string-array>
+
+    <!-- Colombia - Culture -->
+    <string-array name="colombia_culture_array">
+        <item>Colombia is the world’s leading exporter of emeralds – Its emeralds are considered some of the highest quality globally.</item>
+        <item>Colombians celebrate Christmas with candles – On December 7th, families light candles in a beautiful tradition called Día de las Velitas.</item>
+        <item>The country has a strong coffee culture – The Eje Cafetero (Coffee Triangle) is a UNESCO World Heritage Site known for its top-quality coffee.</item>
+        <item>Salsa is hugely popular in Colombia – The city of Cali is known as the "Salsa Capital of the World."</item>
+        <item>Colombians love beauty pageants – The Miss Colombia contest is a major national event, and the country has won the Miss Universe title multiple times.</item>
+        <item>Colombia has the most public holidays in the Americas – With 18 national holidays, it ranks among the countries with the most days off worldwide.</item>
+        <item>It’s the birthplace of Shakira and Gabriel García Márquez – Colombia is home to global music icon Shakira and Nobel Prize-winning author García Márquez.</item>
+        <item>The national sport is not football (soccer) – Tejo, a game involving throwing metal discs at gunpowder-filled targets, is Colombia’s official national sport.</item>
+        <item>There’s a village where people paint their houses in bright colors – In Guatapé, homes are decorated with colorful 3D designs on their walls.</item>
+        <item>One of the world’s largest flower festivals is held in Colombia – The Feria de las Flores in Medellín celebrates Colombia’s massive flower industry.</item>
+    </string-array>
+
+    <!-- Colombia - Cuisine -->
+    <string-array name="colombia_cuisine_array">
+        <item>Ingredients: </item>
+        <item>1 cup warm water</item>
+        <item>1 cup pre-cooked white cornmeal (such as P.A.N.)</item>
+        <item>1 cup shredded mozzarella cheese</item>
+        <item>1 tablespoon butter</item>
+        <item>½ teaspoon salt, or to taste</item>
+        <item>cooking spray</item>
+        <item> </item>
+        <item>1. Mix water, cornmeal, mozzarella cheese, butter, and salt together in a large bowl. Knead until well combined and a soft dough forms. Form dough into balls the size of a medium orange. Place each ball between two sheets of plastic wrap and flatten with a rolling pin to the desired thickness.</item>
+        <item>2. Leaving plastic wrap in place, press the top edge of a cereal bowl or drinking glass into the surface of the dough to cut circles. Remove the plastic wrap and remove any excess dough scraps.</item>
+        <item>3. Spray a griddle with cooking spray and set over medium-high heat. Working in batches, cook arepas on the hot griddle until golden brown, about 5 minutes per side. Serve immediately.</item>
+        <item>4. Enjoy!</item>
+    </string-array>
+
+    <!--Questions and Answer -->
+    <string name="colombia_q1">Where is Colombia located?</string>
+    <string-array name="colombia_q1_array">
+        <item>a) Europe</item>
+        <item>b) South America</item>
+        <item>c) North America</item>
+        <item>d) Africa</item>
+
+    </string-array>
+
+    <string name="colombia_q2">Which ancient civilization built the "Lost City" in Colombia, which predates Machu Picchu?</string>
+    <string-array name="colombia_q2_array">
+        <item>a) The Aztecs</item>
+        <item>b) The Tayrona</item>
+        <item>c) The Mayans</item>
+        <item>d) The Inca</item>
+
+    </string-array>
+
+    <string name="colombia_q3">What is a famous Colombian cultural event?</string>
+    <string-array name="colombia_q3_array">
+        <item>a) Oktoberfest</item>
+        <item>b) Day of the Dead</item>
+        <item>c) Barranquilla Carnival</item>
+        <item>d) Mardi Gras</item>
+
+    </string-array>
+
+    <string name="colombia_q4">What is Colombia known for exporting?</string>
+    <string-array name="colombia_q4_array">
+        <item>a) Coffee</item>
+        <item>b) Tea</item>
+        <item>c) Rice</item>
+        <item>d) Bananas</item>
+
+    </string-array>
+
+    <string name="colombia_q5">Which unique phenomenon occurs in Colombia’s Caño Cristales River, earning it the nickname "River of Five Colors"?</string>
+    <string-array name="colombia_q5_array">
+        <item>a) Natural phosphorescence</item>
+        <item>b) Color-changing water plants</item>
+        <item>c) Floating bioluminescent algae</item>
+        <item>d) Volcanic hot springs</item>
+
+    </string-array>
+
+    <!-- Italy - History -->
+    <string-array name="italy_history_array">
+        <item>Italy was home to the Roman Empire – One of the most powerful civilizations, it lasted over 1,000 years and shaped Western culture.</item>
+        <item>Leonardo da Vinci was more than an artist – He designed early flying machines and an armored vehicle centuries before they were built.</item>
+        <item>The Vatican City is its own country – It’s the smallest independent state in the world, completely surrounded by Rome.</item>
+        <item>Julius Caesar was assassinated in 44 BC – He was stabbed 23 times by senators, including his friend Brutus.</item>
+        <item>The Renaissance started in Italy – Cities like Florence and Venice were the heart of this artistic and scientific revolution.</item>
+        <item>Rome has the oldest active university – La Sapienza University, founded in 1303, is one of the world’s oldest institutions.</item>
+        <item>The Colosseum could hold 50,000 spectators – Gladiator battles, naval reenactments, and executions were all held here.</item>
+        <item>Italy switched sides in WWII – Initially allied with Nazi Germany, it later joined the Allies in 1943.</item>
+        <item>The Italian language is based on Dante’s writings – His work, especially The Divine Comedy, helped standardize the language.</item>
+        <item>Napoleon was technically Italian – Though he ruled France, Napoleon Bonaparte was born on the Italian island of Corsica.</item>
+    </string-array>
+
+    <!-- Italy - Geography -->
+    <string-array name="italy_geography_array">
+        <item>Italy has over 7,500 km (4,660 miles) of coastline – It’s surrounded by the Mediterranean, Adriatic, and Tyrrhenian Seas.</item>
+        <item>Italy has three active volcanoes – Mount Vesuvius, Etna, and Stromboli regularly erupt.</item>
+        <item>There’s a mini Venice in Bologna – The hidden canals of Bologna are like a secret version of Venice.</item>
+        <item>Italy has the most UNESCO World Heritage Sites – It boasts 58 sites, including Pompeii, the Colosseum, and the Dolomites.</item>
+        <item>The Alps cover Northern Italy – These mountains separate Italy from Switzerland and Austria.</item>
+        <item>There’s a "ghost town" in Italy – Craco, a medieval town, was abandoned due to landslides and earthquakes.</item>
+        <item>The Leaning Tower of Pisa isn’t the only leaning tower – Bologna has two leaning towers: Asinelli and Garisenda.</item>
+        <item>Italy has an underwater city – Baia, an ancient Roman city, is now submerged near Naples.</item>
+        <item>Lake Resia has a submerged bell tower – The church steeple is the only visible part of a flooded village.</item>
+        <item>Italy has a pink beach – Spiaggia Rosa in Sardinia gets its color from crushed coral.</item>
+    </string-array>
+
+    <!-- Italy - Culture -->
+    <string-array name="italy_culture_array">
+        <item>Italy is the birthplace of opera – The first opera, Dafne, was written in the late 1500s.</item>
+        <item>Pinocchio was originally Italian – The famous story was written by Carlo Collodi in 1883.</item>
+        <item>The Italian flag was inspired by France – Napoleon introduced the green, white, and red colors.</item>
+        <item>Rome has a keyhole with a perfect view – The Knights of Malta Keyhole perfectly frames St. Peter’s Basilica.</item>
+        <item>Venice hosts the world’s oldest film festival – The Venice Film Festival has been running since 1932.</item>
+        <item>Shaking hands isn’t the only greeting – Italians often greet with a double cheek kiss (one on each side).</item>
+        <item>The Ferrari logo was inspired by a WWI pilot – The prancing horse was first used by Francesco Baracca, an Italian flying ace.</item>
+        <item>The Italian language has no official word for "thousand" years ago – People use "mille" for 1,000 but say "migliaia" (thousands) instead.</item>
+        <item>The oldest known recipe book is Italian – Apicius, written in the 4th century, is an ancient cookbook.</item>
+        <item>Florence was the first city to ban cars in its center – It introduced this in the 1980s to preserve historical areas.</item>
+    </string-array>
+
+    <!-- Italy - Cuisine -->
+    <string-array name="italy_cuisine_array">
+        <item>Ingredients: </item>
+        <item>12 lasagna noodles uncooked</item>
+        <item>4 cups shredded mozzarella cheese divided</item>
+        <item>½ cup shredded Parmesan cheese shredded and divided</item>
+        <item>¾ teaspoon salt more to taste</item>
+        <item>Tomato Sauce</item>
+        <item>½ pound lean ground beef</item>
+        <item>½ pound Italian sausage</item>
+        <item>1 yellow onion diced</item>
+        <item>2 cloves garlic minced</item>
+        <item>36 ounces pasta sauce</item>
+        <item>2 tablespoons tomato paste</item>
+        <item>1 teaspoon Italian seasoning</item>
+        <item>Cheese Mixture</item>
+        <item>2 cups ricotta cheese or cottage cheese</item>
+        <item>¼ cup chopped fresh parsley</item>
+        <item>1 large egg beaten</item>
+        <item> </item>
+        <item>1. Preheat the oven to 350°F. Bring a large pot of salted water to a boil. Add the lasagna noodles and cook until al dente (firm) according to package directions. Drain, rinse under cold water, and set aside.</item>
+        <item>2. Meanwhile, in a large skillet or Dutch oven, brown the beef, sausage, onion, and garlic over medium-high heat until no pink remains. Drain any fat.</item>
+        <item>3. Stir in the pasta sauce, tomato paste, Italian seasoning, ½ teaspoon of salt, and ¼ teaspoon of black pepper. Simmer uncovered over medium heat for 5 minutes or until slightly thickened. Taste and season with additional salt if desired.</item>
+        <item>4. In a separate medium bowl, combine 1 ½ cups mozzarella cheese, ¼ cup parmesan cheese, ricotta, parsley, egg, and ¼ teaspoon salt.</item>
+        <item>5. Spread 1 cup of the meat sauce in a 9×13 pan or casserole dish. Top it with 3 lasagna noodles. Layer with ⅓ of the ricotta cheese mixture and 1 cup of meat sauce. Repeat twice more. Finish with 3 noodles topped with remaining sauce.</item>
+        <item>6. Cover with foil and bake for 45 minutes.</item>
+        <item>7. Remove the foil and sprinkle the top of the lasagna with the remaining 2 ½ cups mozzarella cheese and ¼ cup parmesan cheese. Bake uncovered for an additional 15 minutes or until browned and bubbly. Broil for 2–3 minutes if desired.</item>
+        <item>8. Rest for at least 15 minutes before cutting.</item>
+        <item>9. Enjoy!</item>
+    </string-array>
+
+    <!--Questions and Answer -->
+    <string name="italy_q1">Where is Italy located?</string>
+    <string-array name="italy_q1_array">
+        <item>a) Asia</item>
+        <item>b) South America</item>
+        <item>c) Europe</item>
+        <item>d) Africa</item>
+
+    </string-array>
+
+    <string name="italy_q2">What ancient civilization originated in Italy?</string>
+    <string-array name="italy_q2_array">
+        <item>a) Aztec</item>
+        <item>b) Roman</item>
+        <item>c) Egyptian</item>
+        <item>d) Greek</item>
+
+    </string-array>
+
+    <string name="italy_q3">What is Italy\'s national dish?</string>
+    <string-array name="italy_q3_array">
+        <item>a) Sushi</item>
+        <item>b) Pizza</item>
+        <item>c) Lasagna</item>
+        <item>d) Pasta</item>
+
+    </string-array>
+
+    <string name="italy_q4">Why does the Leaning Tower of Pisa lean?</string>
+    <string-array name="italy_q4_array">
+        <item>a) It was designed that way</item>
+        <item>b) The soil underneath is unstable</item>
+        <item>c) It was hit by an earthquake</item>
+        <item>d) It was rebuilt incorrectly</item>
+
+    </string-array>
+
+    <string name="italy_q5">Which Italian city has an underground world of tunnels and ancient cisterns, earning it the nickname "The Underground City"?</string>
+    <string-array name="italy_q5_array">
+        <item>a) Rome</item>
+        <item>b) Naples</item>
+        <item>c) Milan</item>
+        <item>d) Florence</item>
+
+    </string-array>
+
+    <!-- Mexico - History -->
+    <string-array name="mexico_history_array">
+        <item>Mexico was home to the Aztec and Maya civilizations – The Aztecs ruled central Mexico before the Spanish arrived, while the Maya thrived in the Yucatán for centuries.</item>
+        <item>The Aztecs built their capital on a lake – Tenochtitlán, now Mexico City, was built on an island in Lake Texcoco and had floating gardens called chinampas.</item>
+        <item>Mexico was the first country in North America to gain independence – It declared independence from Spain on September 16, 1810 and achieved it in 1821.</item>
+        <item>Cinco de Mayo is not Mexico’s Independence Day – It actually commemorates Mexico’s victory over the French in the Battle of Puebla (1862).</item>
+        <item>Mexico had an emperor after independence – Agustín de Iturbide ruled as Emperor for less than a year (1822–1823) before Mexico became a republic.</item>
+        <item>The Mexican-American War changed Mexico’s borders – Mexico lost half of its territory (including California, Texas, and Arizona) to the U.S. in 1848.</item>
+        <item>The world\'s first color TV was invented in Mexico – Guillermo González Camarena created the color TV system in the 1940s.</item>
+        <item>Mexico had two revolutions in one century – After gaining independence, Mexico experienced the Mexican Revolution (1910–1920) to end dictatorship.</item>
+        <item>Frida Kahlo’s family home is now a museum – The Casa Azul in Mexico City was her birthplace and is now a major tourist attraction.</item>
+        <item>Mexico had an indigenous president in the 1800s – Benito Juárez, of Zapotec origin, was the first fully indigenous leader of a North American nation.</item>
+    </string-array>
+
+    <!-- Mexico - Geography -->
+    <string-array name="mexico_geography_array">
+        <item>Mexico is the 14th largest country in the world – It covers 1.96 million km² (758,449 mi²).</item>
+        <item>It has 34 UNESCO World Heritage Sites – These include ancient cities like Chichén Itzá, Palenque, and Teotihuacán.</item>
+        <item>Mexico has a desert and a rainforest – The Chihuahuan Desert in the north is one of the largest in the Americas, while Lacandon Jungle in the south is lush and tropical.</item>
+        <item>The Great Pyramid of Cholula is the largest pyramid by volume – It’s bigger than the Great Pyramid of Giza!</item>
+        <item>Mexico has the world’s deepest sinkhole – The Zacatón Cenote is over 1,100 feet (335 meters) deep.</item>
+        <item>The Yucatán Peninsula is full of underground rivers – The region has thousands of cenotes (natural sinkholes) formed from collapsed limestone.</item>
+        <item>Mexico has one of the world’s most active volcanoes – Popocatépetl, near Mexico City, regularly erupts.</item>
+        <item>The country has 9,330 km (5,800 mi) of coastline – It touches the Pacific Ocean, Gulf of Mexico, and Caribbean Sea.</item>
+        <item>There’s an island full of creepy dolls – La Isla de las Muñecas near Mexico City is covered in old dolls, making it a haunted tourist attraction.</item>
+        <item>Mexico City is sinking – Built on a drained lakebed, the city sinks about 50 cm (20 inches) per year.</item>
+    </string-array>
+
+    <!-- Mexico - Culture -->
+    <string-array name="mexico_culture_array">
+        <item>Mexico introduced chocolate to the world – The Aztecs and Maya used cacao to make a bitter chocolate drink called xocoatl.</item>
+        <item>The Day of the Dead is a UNESCO cultural heritage – Día de los Muertos celebrates ancestors with altars, marigolds, and skull decorations.</item>
+        <item>Lucha Libre (Mexican wrestling) is a national passion – Famous wrestlers (luchadores) wear colorful masks and perform high-flying moves.</item>
+        <item>Mexico City has more museums than any other city – With over 150 museums, it beats cities like Paris and New York.</item>
+        <item>Mariachi music originated in western Mexico – It started in Jalisco and features violins, trumpets, and charro (cowboy) outfits.</item>
+        <item>Mexicans celebrate Christmas for over a month – The festivities begin on December 12th (Virgin of Guadalupe Day) and end on January 6th (Three Kings’ Day).</item>
+        <item>The Mexican flag has an Aztec legend behind it – The eagle on a cactus eating a snake comes from an Aztec prophecy about where to build their capital.</item>
+        <item>Mexicans celebrate the world’s largest Radish Festival – In Oaxaca, people carve radishes into elaborate figures every December 23rd.</item>
+        <item>Mexico has a holiday dedicated to books – Día del Libro (Book Day) on November 12 honors Sor Juana Inés de la Cruz, a famous Mexican writer.</item>
+        <item>Some Mexicans believe in La Llorona – A ghostly woman said to cry for her lost children haunts rivers and lakes.</item>
+    </string-array>
+
+    <!-- Mexico - Cuisine -->
+    <string-array name="mexico_cuisine_array">
+        <item>Ingredients: </item>
+        <item>red sauce:</item>
+        <item>3 tablespoons neutral oil</item>
+        <item>½ sweet onion, diced</item>
+        <item>2 garlic cloves, minced</item>
+        <item>2 cups crushed tomatoes</item>
+        <item>6 chipotles in plenty of adobo sauce</item>
+        <item>2/3 cup unsalted chicken stock</item>
+        <item>fried eggs:</item>
+        <item>2 tbsp extra virgin olive oil</item>
+        <item>4 eggs</item>
+        <item>salt and pepper to taste</item>
+        <item>chilaquiles:</item>
+        <item>8 ounces tortilla chips</item>
+        <item>garnishes</item>
+        <item>½ cup queso fresco, crumbled</item>
+        <item>2 radishes, thinly sliced</item>
+        <item>½ bunch cilantro leaves, roughly chopped</item>
+        <item>hot sauce optional</item>
+        <item> </item>
+        <item>red sauce:</item>
+        <item>1. Place oil in a heavy bottom skillet and place over medium-high heat.</item>
+        <item>2. Sauté onion and garlic for 2 to 3 minutes. Reduce heat to medium and continue to sauté for 2 minutes. Season with salt and pepper.</item>
+        <item>3. Pour mixture into a blender and add crushed tomatoes, chipotle peppers in adobe and stock. Blend until smooth.</item>
+        <item>4. Pour sauce back into skillet and simmer over medium-low heat for 10 minutes.</item>
+        <item>fried eggs:</item>
+        <item>1. Place a large nonstick pan over medium-high heat and add oil. Swirl oil around pan and crack eggs into pan. Fry eggs for 3 to 4 minutes until edges are crispy, whites have set but yolks are still runny. Remove from heat and set aside.</item>
+        <item>chilaquiles:</item>
+        <item>1. Raise heat of sauce to medium-high and bring to a boil about 3 minutes. Add tortilla chips, a handful at a time, folding gently to coat every chip before adding more.</item>
+        <item>2. Repeat until all chips have been added and evenly coated, about 3 minutes. Season with salt and pepper and gently fold together. Remove from heat and top with fried eggs.</item>
+        <item>3. Top with queso fresco, radishes, cilantro, and hot sauce. Serve immediately.</item>
+        <item>Enjoy!</item>
+    </string-array>
+    <!--Questions and Answer -->
+    <string name="mexico_q1">Where is Mexico located?</string>
+    <string-array name="mexico_q1_array">
+        <item>a) South America</item>
+        <item>b) North America</item>
+        <item>c) Asia</item>
+        <item>d) Europe</item>
+
+    </string-array>
+
+    <string name="mexico_q2">What ancient civilization built a great empire in Mexico City?</string>
+    <string-array name="mexico_q2_array">
+        <item>a) Mayan</item>
+        <item>b) Incan</item>
+        <item>c) Aztec</item>
+        <item>d) Olmec</item>
+
+    </string-array>
+
+    <string name="mexico_q3">What treat did Mexico introduce to the world?</string>
+    <string-array name="mexico_q3_array">
+        <item>a) Ice cream</item>
+        <item>b) Popcorn</item>
+        <item>c) Coffee</item>
+        <item>d) Chocolate</item>
+
+    </string-array>
+
+    <string name="mexico_q4">What region was home to the Mayan civilization?</string>
+    <string-array name="mexico_q4_array">
+        <item>a) Baja California</item>
+        <item>b) Yucatán Peninsula</item>
+        <item>c) Gulf Coast</item>
+        <item>d) Sonora</item>
+
+    </string-array>
+
+    <string name="mexico_q5">When is Mexican Independence Day?</string>
+    <string-array name="mexico_q5_array">
+        <item>a) May 5</item>
+        <item>b) July 4</item>
+        <item>c) October 10</item>
+        <item>d) September 16</item>
+
+    </string-array>
+
+    <!-- Nigeria - History -->
+    <string-array name="nigeria_history_array">
+        <item>Nigeria was named by a British journalist – Flora Shaw, who later married Lord Lugard, coined the name Nigeria in the 1890s from the Niger River.</item>
+        <item>It became independent in 1960 – Nigeria gained independence from Britain on October 1, 1960 and became a republic in 1963.</item>
+        <item>The Biafran War lasted almost three years – A deadly civil war took place between 1967 and 1970 after the southeastern region tried to secede.</item>
+        <item>Nigeria has had both military and civilian rule – The country experienced multiple military coups before transitioning back to democracy in 1999.</item>
+        <item>The first Nigerian university was founded in 1948 – The University of Ibadan, originally part of the University of London, became independent in 1962.</item>
+        <item>Nigeria is home to over 250 ethnic groups – The three largest are the Hausa, Yoruba, and Igbo, but there are hundreds of others.</item>
+        <item>The Nok civilization was one of Africa’s earliest – The Nok people (1500 BCE – 500 CE) were known for terracotta sculptures and early ironworking.</item>
+        <item>Nigeria played a major role in African decolonization – It was a leading voice in the Organization of African Unity (OAU), supporting independence movements across Africa.</item>
+        <item>One of the oldest known boat designs was found in Nigeria – The Dufuna Canoe, discovered in 1987, is over 8,000 years old, making it Africa’s oldest boat.</item>
+        <item>Nigeria had a short-lived second republic – After military rule ended in 1979, civilian government returned but was overthrown in 1983.</item>
+    </string-array>
+
+    <!-- Nigeria - Geography -->
+    <string-array name="nigeria_geography_array">
+        <item>Nigeria is Africa’s most populous country – With over 220 million people, it has the largest population on the continent.</item>
+        <item>It shares borders with four countries – Nigeria is bordered by Benin, Niger, Chad, and Cameroon.</item>
+        <item>The Niger River is the third-longest in Africa – It stretches 4,180 km (2,600 miles), flowing through multiple countries.</item>
+        <item>Lagos is one of the fastest-growing cities in the world – Its population is estimated to be over 20 million and still increasing.</item>
+        <item>Nigeria has a variety of climates – It ranges from tropical rainforest in the south to savanna and desert-like conditions in the north.</item>
+        <item>It has one of the largest river deltas in the world – The Niger Delta is rich in oil and biodiversity but faces environmental issues.</item>
+        <item>Zuma Rock is called Nigeria’s "Gateway" – This giant monolith near Abuja is sometimes said to have a human-like face on it.</item>
+        <item>Lake Chad was once much larger – The lake, which Nigeria shares with Chad, Niger, and Cameroon, has shrunk drastically since the 1960s.</item>
+        <item>The Jos Plateau is home to Nigeria’s coldest region – This highland area has lower temperatures than the rest of the country.</item>
+        <item>Nigeria has its own "Grand Canyon" – The Ogbunike Caves in southeastern Nigeria are a stunning underground network of tunnels.</item>
+    </string-array>
+
+    <!-- Nigeria - Culture -->
+    <string-array name="nigeria_culture_array">
+        <item>Nigeria has the largest film industry in Africa – Nollywood produces thousands of movies yearly, making it one of the world’s biggest film industries.</item>
+        <item>The Yoruba language has its own unique written script – Called Ajami Yoruba, it uses Arabic letters to write Yoruba.</item>
+        <item>The Kola nut is culturally significant – It is used in traditional ceremonies and as a sign of respect and hospitality.</item>
+        <item>Afrobeats is a global music phenomenon – Nigerian artists like Fela Kuti, Burna Boy, and Wizkid have helped popularize the genre worldwide.</item>
+        <item>The Igbo people have one of the largest masquerade festivals – The Mmanwu Festival in southeastern Nigeria is a major cultural event featuring elaborate masks.</item>
+        <item>Football is the most popular sport – Nigeria has won multiple African Cup of Nations titles and has a strong World Cup presence.</item>
+        <item>The Durbar Festival is a royal horse parade – This grand event is held in northern Nigeria, showcasing colorful displays of horsemanship.</item>
+        <item>Nigeria’s official language is English, but hundreds of languages are spoken – Over 500 indigenous languages exist, making it one of the most linguistically diverse countries.</item>
+        <item>Nigeria has a floating slum – Makoko, a community in Lagos, is built on stilts over the water, with houses connected by wooden canoes.</item>
+        <item>The Osun-Osogbo Sacred Grove is a UNESCO World Heritage Site – This spiritual forest is dedicated to the Yoruba goddess Osun and features centuries-old shrines.</item>
+    </string-array>
+
+    <!-- Nigeria - Cuisine -->
+    <string-array name="nigeria_cuisine_array">
+        <item>Ingredients: </item>
+        <item>4 plum tomatoes</item>
+        <item>½ bell pepper</item>
+        <item>1 red onion</item>
+        <item>1 thumb-size fresh ginger</item>
+        <item>2 garlic gloves</item>
+        <item>1 scotch bonnet pepper</item>
+        <item>¼ cup sunflower oil</item>
+        <item>1 cup long-grain rice (Washed)</item>
+        <item>1 tsp paprika powder</item>
+        <item>1 tsp dried thyme</item>
+        <item>¼ tsp nutmeg</item>
+        <item>1 bay leaf</item>
+        <item>1 ½ tsp salt</item>
+        <item>1 cup vegetable stock</item>
+        <item> </item>
+        <item>1. Chop the tomatoes, onions, and bell pepper into chunks. Place into a blender/food processor together with the ginger, garlic, and scotch bonnet pepper. Then blitz into a smooth paste.</item>
+        <item>2. Place a pot over medium heat, pour in the sunflower oil, and add the blended mixture. Stir and allow to sizzle, then place a lid over it, reduce heat to low, and simmer for 20 minutes.</item>
+        <item>3. After simmering for 20 minutes, remove the lid, then add the spices and seasonings (Paprika, thyme, nutmeg, bay leaf, and salt). Stir altogether.</item>
+        <item>4. Also pour in the rice and vegetable or meat stock and stir together.</item>
+        <item>5. Place a piece of aluminium foil into the pot, covering the entire surface of the rice (this will keep the steam in), then place a lid over the pot. Cook for 20 minutes on low heat (Stirring occasionally to cook the rice evenly and also to prevent it from burning at the bottom).</item>
+        <item>6. Remove lid, bin the aluminium foil and give the rice a gentle stir, then return the lid and cook for another 5 minutes.</item>
+        <item>7. Now the rice should be ready to serve. Serve hot with your favourite sides and enjoy!</item>
+    </string-array>
+
+    <!--Questions and Answer -->
+    <string name="nigeria_q1">Where is Nigeria located?</string>
+    <string-array name="nigeria_q1_array">
+        <item>a) Asia</item>
+        <item>b) South America</item>
+        <item>c) Africa</item>
+        <item>d) Europe</item>
+
+    </string-array>
+
+    <string name="nigeria_q2">When did Nigeria gain independence?</string>
+    <string-array name="nigeria_q2_array">
+        <item>a) 1945</item>
+        <item>b) 1960</item>
+        <item>c) 1975</item>
+        <item>d) 1982</item>
+
+    </string-array>
+
+    <string name="nigeria_q3">Which Nigerian festival celebrates the Yoruba deity of the Osun River?</string>
+    <string-array name="nigeria_q3_array">
+        <item>a) Durbar Festival</item>
+        <item>b) Eyo Festival</item>
+        <item>c) Osun-Osogbo Festival</item>
+        <item>d) New Yam Festival</item>
+
+    </string-array>
+
+    <string name="nigeria_q4">What is Nigeria’s population ranking in Africa?</string>
+    <string-array name="nigeria_q4_array">
+        <item>a) 1st</item>
+        <item>b) 2nd</item>
+        <item>c) 3rd</item>
+        <item>d) 4th</item>
+
+    </string-array>
+
+    <string name="nigeria_q5">What is Nigeria\'s tallest monolith, often called the country’s "Gateway"?</string>
+    <string-array name="nigeria_q5_array">
+        <item>a) Zuma Rock</item>
+        <item>b) Olumo Rock</item>
+        <item>c) Aso Rock</item>
+        <item>d) Shere Hills</item>
+
+    </string-array>
+
+    <!-- Australia - History -->
+    <string name="AH_ff1">Australia was originally a British penal colony – The first British settlers in 1788 were mostly convicts sent from England.</string>
+    <string name="AH_ff2">The Aboriginal Australians have lived here for over 65,000 years – They are the oldest continuous civilization on Earth.</string>
+    <string name="AH_ff3">Australia became a country in 1901 – The six British colonies united to form the Commonwealth of Australia.</string>
+    <string name="AH_ff4">The world\'s longest fence is in Australia – The Dingo Fence stretches 5,614 km (3,488 miles) to protect sheep from wild dogs.</string>
+    <string name="AH_ff5">Australia fought in both World Wars – Despite its distance, it played a crucial role in major battles.</string>
+    <string name="AH_ff6">Canberra was chosen as the capital to settle a rivalry – Sydney and Melbourne both wanted to be the capital, so a new city was built in between.</string>
+    <string name="AH_ff7">The Sydney Opera House took 14 years to build – It was completed in 1973, way over budget and schedule.</string>
+    <string name="AH_ff8">An Australian Prime Minister once disappeared – Harold Holt vanished while swimming in 1967 and was never found.</string>
+    <string name="AH_ff9">The world\'s first seatbelt law was in Australia – Victoria made wearing seatbelts mandatory in 1970.</string>
+    <string name="AH_ff10">Australia once "went to war" with emus – In 1932, soldiers with machine guns tried to reduce the emu population but failed.</string>
+
+    <!-- Australia - Geography -->
+    <string name="AG_ff1">Australia is the world\'s smallest continent and largest island – It’s both a continent and a country.</string>
+    <string name="AG_ff2">The Great Barrier Reef is the largest living structure on Earth – It stretches over 2,300 km (1,400 miles).</string>
+    <string name="AG_ff3">90% of Australians live on the coast – The center of the country is mostly desert.</string>
+    <string name="AG_ff4">Uluru (Ayers Rock) changes color – Depending on the time of day, it can appear red, orange, or purple.</string>
+    <string name="AG_ff5">Australia has more than 10,000 beaches – You could visit a new one every day for over 27 years.</string>
+    <string name="AG_ff6">It is home to the world\'s largest sand island – Fraser Island is a UNESCO World Heritage Site.</string>
+    <string name="AG_ff7">The Outback is one of the driest places on Earth – Some parts receive less rain than the Sahara Desert.</string>
+    <string name="AG_ff8">There’s a lake that is naturally pink – Lake Hillier stays pink year-round due to algae.</string>
+    <string name="AG_ff9">Australia has the world\'s longest straight road – The Eyre Highway runs for 146 km (91 miles) without a single turn.</string>
+    <string name="AG_ff10">There is a town underground – Coober Pedy has homes, shops, and even hotels built underground to escape the heat.</string>
+
+    <!-- Australia - Culture -->
+    <string name="AC_ff1">Australia has no official language – English is the main language, but over 250 Indigenous languages exist.</string>
+    <string name="AC_ff2">Kangaroos and emus are on the coat of arms – They were chosen because they can’t walk backward, symbolizing progress.</string>
+    <string name="AC_ff3">Australians love nicknames – Breakfast is "brekkie," McDonald\'s is "Macca\'s," and mosquitoes are "mozzies."</string>
+    <string name="AC_ff4">Football is different in Australia – Australian Rules Football (AFL) is a unique sport played mostly in Australia.</string>
+    <string name="AC_ff5">The didgeridoo is one of the world’s oldest instruments – Aboriginal Australians have played it for over 1,500 years.</string>
+    <string name="AC_ff6">Vegemite is an Australian staple – It’s a salty spread made from yeast extract, and Australians love it!</string>
+    <string name="AC_ff7">Australia celebrates Christmas in summer – Many Australians go to the beach on Christmas Day instead of staying inside.</string>
+    <string name="AC_ff8">There’s an annual "Toad Racing" event – In Queensland, people bet on racing cane toads.</string>
+    <string name="AC_ff9">Australians once voted a cat for mayor – A cat named "Mayor Stubbs" became famous for unofficially "running" a town.</string>
+    <string name="AC_ff10">The Melbourne Cup horse race stops the nation – It’s so popular that many people get the day off work.</string>
+
+    <!-- China - History -->
+    <string name="CH_ff1">China is one of the world’s oldest civilizations – It dates back over 5,000 years with dynasties like the Shang and Zhou.</string>
+    <string name="CH_ff2">The Great Wall isn’t just one wall – It’s a series of fortifications built over 2,000 years and stretches over 13,000 miles (21,000 km).</string>
+    <string name="CH_ff3">Paper was invented in China – The Han Dynasty created paper-making in 105 AD, changing how the world recorded knowledge.</string>
+    <string name="CH_ff4">The Terracotta Army guards China’s first emperor – Over 8,000 life-sized soldiers were buried with Qin Shi Huang.</string>
+    <string name="CH_ff5">Silk was China’s secret for thousands of years – The Silk Road spread trade and culture, but the method of making silk was a closely guarded secret.</string>
+    <string name="CH_ff6">Gunpowder was first used for fireworks – The Chinese developed gunpowder in the 9th century, initially for fireworks before it was used in weapons.</string>
+    <string name="CH_ff7">Kublai Khan, grandson of Genghis Khan, ruled China – He founded the Yuan Dynasty (1271–1368) and connected China to the Mongol Empire.</string>
+    <string name="CH_ff8">The world\'s longest canal is in China – The Grand Canal stretches over 1,100 miles (1,770 km) and has been used for transport since the 5th century.</string>
+    <string name="CH_ff9">Ancient China had a female emperor – Empress Wu Zetian (624–705 AD) ruled the Tang Dynasty and expanded China’s influence.</string>
+    <string name="CH_ff10">The world\'s first earthquake detector was invented in China – In 132 AD, Zhang Heng created a device to detect earthquakes.</string>
+
+    <!-- China - Geography -->
+    <string name="CG_ff1">China is the fourth largest country by land area – It covers 9.6 million km² (3.7 million mi²), just behind the USA and Canada.</string>
+    <string name="CG_ff2">It has the highest and lowest points in the world – Mount Everest (shared with Nepal) is the highest, and the Turpan Depression is 505 feet (154 m) below sea level.</string>
+    <string name="CG_ff3">The Yangtze River is the longest in Asia – It’s 3,915 miles (6,300 km) long and plays a key role in China’s economy.</string>
+    <string name="CG_ff4">China has over 2,000 natural lakes – The largest is Qinghai Lake, a massive saltwater lake.</string>
+    <string name="CG_ff5">It has 14 land borders – China shares borders with more countries than any other nation.</string>
+    <string name="CG_ff6">The Forbidden City has 9,999 rooms – The imperial palace in Beijing was home to emperors for nearly 500 years.</string>
+    <string name="CG_ff7">China has a "Rainbow Mountain" – The Zhangye Danxia Landform has colorful, striped rock formations.</string>
+    <string name="CG_ff8">It’s home to the largest desert in Asia – The Gobi Desert spans China and Mongolia.</string>
+    <string name="CG_ff9">The South China Karst has over 1,000 limestone towers – These surreal formations are a UNESCO site.</string>
+    <string name="CG_ff10">China has an underground glacier – The Tianshan Glacier No. 1 exists in an arid region.</string>
+
+    <!-- China - Culture -->
+    <string name="CC_ff1">China celebrates the world’s biggest New Year – Chinese New Year lasts 15 days with dragon dances, fireworks, and red envelopes.</string>
+    <string name="CC_ff2">Martial arts like Kung Fu originated in China – The Shaolin monks helped develop Kung Fu, influencing modern martial arts.</string>
+    <string name="CC_ff3">The Chinese writing system is over 3,000 years old – Characters are based on ancient pictographs.</string>
+    <string name="CC_ff4">China’s tea culture dates back over 4,000 years – Legend says Emperor Shen Nong discovered tea in 2737 BC.</string>
+    <string name="CC_ff5">The world’s largest annual human migration happens in China – Millions travel home for Chinese New Year.</string>
+    <string name="CC_ff6">Red is the color of luck in China – It symbolizes happiness, prosperity, and good fortune.</string>
+    <string name="CC_ff7">China has an "ice city" – Harbin hosts a famous Ice and Snow Festival with enormous ice sculptures.</string>
+    <string name="CC_ff8">The oldest board game, Go, was invented in China – Go is over 2,500 years old and is still played today.</string>
+    <string name="CC_ff9">There are over 300 styles of Chinese opera – Peking Opera is the most famous, but regional styles exist.</string>
+    <string name="CC_ff10">China has a "ghost month" – The Hungry Ghost Festival (7th lunar month) is believed to be when spirits roam freely.</string>
+
+    <!-- Colombia - History -->
+    <string name="CoH_ff1">Colombia was named after Christopher Columbus – Even though Columbus never actually set foot in present-day Colombia, the country is named in his honor.</string>
+    <string name="CoH_ff2">It gained independence in 1810 – Colombia declared its independence from Spain on July 20, 1810, but full independence came in 1819 under Simón Bolívar.</string>
+    <string name="CoH_ff3">Colombia was once part of a larger nation – It was part of Gran Colombia, a short–lived republic (1819–1831) that included Venezuela, Ecuador, Panama, and parts of Peru and Brazil.</string>
+    <string name="CoH_ff4">Panama used to be part of Colombia – Panama separated from Colombia in 1903 with the support of the United States.</string>
+    <string name="CoH_ff5">The Muisca civilization was rich in gold – The Muisca people inspired the legend of El Dorado, a mythical city of gold.</string>
+    <string name="CoH_ff6">Bogotá was one of the most advanced cities in South America during colonial times – It had the first printing press and one of the oldest universities in the continent.</string>
+    <string name="CoH_ff7">Colombia has had multiple civil wars – The most infamous was La Violencia (1948–1958), a brutal conflict that left over 200,000 dead.</string>
+    <string name="CoH_ff8">It has the world’s longest-running insurgency – The FARC guerrilla group fought the Colombian government for over 50 years until a 2016 peace deal.</string>
+    <string name="CoH_ff9">Colombia once had a queen who ruled for only 6 days – María Eugenia Rojas, the daughter of a dictator, briefly claimed power in 1957 before being overthrown.</string>
+    <string name="CoH_ff10">It was the first constitutional democracy in South America – Colombia’s Constitution of 1886 was one of the longest-lasting in Latin America.</string>
+
+    <!-- Colombia - Geography -->
+    <string name="CoG_ff1">Colombia is the only South American country with both Pacific and Atlantic coastlines – It has stunning beaches on both oceans.</string>
+    <string name="CoG_ff2">The Andes split into three mountain ranges in Colombia – This makes its geography incredibly diverse, from snow-capped peaks to tropical lowlands.</string>
+    <string name="CoG_ff3">It is one of the world’s most biodiverse countries – Colombia ranks second in biodiversity after Brazil.</string>
+    <string name="CoG_ff4">It has more species of birds than any other country – Over 1,900 bird species are found in Colombia, more than in the U.S. and Canada combined.</string>
+    <string name="CoG_ff5">The Amazon rainforest covers a large part of Colombia – About 35% of Colombia’s land is part of the Amazon Basin.</string>
+    <string name="CoG_ff6">It is home to the tallest coastal mountain in the world – Sierra Nevada de Santa Marta rises to 5,700 meters (18,700 feet) just 42 km (26 mi) from the sea.</string>
+    <string name="CoG_ff7">Colombia has a river that looks like a rainbow – Caño Cristales is known as the "River of Five Colors" due to its vibrant red, yellow, green, blue, and black hues.</string>
+    <string name="CoG_ff8">It has 59 national parks – Covering about 14% of the country’s land area, they protect rainforests, deserts, coral reefs, and mountains.</string>
+    <string name="CoG_ff9">Some parts of Colombia have never recorded snowfall – Despite having high mountains, areas like the Tatacoa Desert are among the driest and hottest places.</string>
+    <string name="CoG_ff10">There’s an ancient underground city hidden in the jungle – The Ciudad Perdida (Lost City) is an archaeological site older than Machu Picchu.</string>
+
+    <!-- Colombia - Culture -->
+    <string name="CoC_ff1">Colombia is the world’s leading exporter of emeralds – Its emeralds are considered some of the highest quality globally.</string>
+    <string name="CoC_ff2">Colombians celebrate Christmas with candles – On December 7th, families light candles in a beautiful tradition called Día de las Velitas.</string>
+    <string name="CoC_ff3">The country has a strong coffee culture – The Eje Cafetero (Coffee Triangle) is a UNESCO World Heritage Site known for its top-quality coffee.</string>
+    <string name="CoC_ff4">Salsa is hugely popular in Colombia – The city of Cali is known as the "Salsa Capital of the World."</string>
+    <string name="CoC_ff5">Colombians love beauty pageants – The Miss Colombia contest is a major national event, and the country has won the Miss Universe title multiple times.</string>
+    <string name="CoC_ff6">Colombia has the most public holidays in the Americas – With 18 national holidays, it ranks among the countries with the most days off worldwide.</string>
+    <string name="CoC_ff7">It’s the birthplace of Shakira and Gabriel García Márquez – Colombia is home to global music icon Shakira and Nobel Prize-winning author García Márquez.</string>
+    <string name="CoC_ff8">The national sport is not football (soccer) – Tejo, a game involving throwing metal discs at gunpowder-filled targets, is Colombia’s official national sport.</string>
+    <string name="CoC_ff9">There’s a village where people paint their houses in bright colors – In Guatapé, homes are decorated with colorful 3D designs on their walls.</string>
+    <string name="CoC_ff10">One of the world’s largest flower festivals is held in Colombia – The Feria de las Flores in Medellín celebrates Colombia’s massive flower industry.</string>
+
+
+</resources>
